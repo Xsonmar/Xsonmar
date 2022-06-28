@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xsonmar 
 - 👀 I’m interested in software, website, and interface designs;
-- 🌱 I’m currently learning html , css , js , java , python , c++ , Androidك
+- 🌱 I’m currently learning html , css , js , java , python , c++ , Android;
 - 💞️ I’m looking to collaborate on the global companies;
 - 📫 How to reach me "hissahsaadalghamdi@gmail.com";
 
